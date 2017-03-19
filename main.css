@@ -1,0 +1,12 @@
+#tabel_culori{
+  border: 1px solid black;
+  position: relative;
+  top: 350px;
+  left: 45%;
+  width: 200px;
+  height: 200px;
+}
+
+#tabel_culori td{
+  border: 1px solid black;
+}
